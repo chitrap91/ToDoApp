@@ -1,0 +1,11 @@
+.todo-card {
+    height: 300px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.container {
+    display: flex;
+
+
+}
